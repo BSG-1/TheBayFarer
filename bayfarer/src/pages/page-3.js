@@ -1,7 +1,7 @@
 import React from 'react'
 import Link from 'gatsby-link'
 
-const SecondPage = () => (
+const ThirdPage = () => (
     <div>
         <h1>Sup from the third page</h1>
         <p>Welcome to page 3</p>
@@ -9,4 +9,4 @@ const SecondPage = () => (
     </div>
 )
 
-export default SecondPage
+export default ThirdPage
